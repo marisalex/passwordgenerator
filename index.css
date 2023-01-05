@@ -1,0 +1,50 @@
+body {
+    background: #1F2937;
+    margin: 0;
+}
+h1 {
+   color: white; 
+   margin-bottom: 0px;
+   margin-left: 30px;
+}
+#random-password {
+    color: #4ADF86;
+    margin-top: 0px;
+}
+p {
+    color: white;
+    font-style: Regular;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 30px;  
+}
+button {
+    background: #34D399;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+    padding: 8px 12px;
+    margin: 30px 30px;
+}
+.line {
+    display: flex;
+    border: 1px soild white;
+    background: #2F3E53;
+    padding: 1px;
+    width: 425px;
+}
+#passwords-el {
+    display: flex;
+}
+.passwords {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #273549;
+    border-radius: 5px;
+    margin: 10px 0px 0px 30px;
+    color: #55F991;
+    font-size: 15px;
+    width: 200px;
+    height: 35px;
+}
